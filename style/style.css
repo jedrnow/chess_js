@@ -1,0 +1,59 @@
+#board{
+    display:flex;
+    width: 800px;
+    height: 800px;
+    border: 5px solid black;
+}
+
+
+.tileW{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background: white;
+    justify-content: center;
+}
+
+.tileB{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background: rgb(250, 168, 75);
+    justify-content: center;
+}
+
+.pawn{
+    font-size: 100px;
+    margin:-20px;
+    text-align: center;
+}
+
+.knight{
+    font-size: 100px;
+    margin:-20px;
+    text-align: center;
+}
+
+.Rook{
+    font-size: 100px;
+    margin:-20px;
+    text-align: center;
+}
+
+.Bishop{
+    font-size: 100px;
+    margin:-20px;
+    text-align: center;
+}
+
+.Queen{
+    font-size: 100px;
+    margin:-20px;
+    text-align: center;
+}
+
+.King{
+    font-size: 100px;
+    margin:-20px;
+    text-align: center;
+}
